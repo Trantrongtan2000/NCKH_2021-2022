@@ -1,10 +1,10 @@
-#Nghiên cứu ứng dụng IoT hệ thống đo nhịp tim và SpO2
+# Nghiên cứu ứng dụng IoT hệ thống đo nhịp tim và SpO2
+## Đề tài:
 
-Đề tài:
+**Giảng viên hướng dẫn:** 
+|Trần Thị Ngọc Oanh|
 
-**GVHD: Trần Thị Ngọc Oanh**
-
-Sinh viên thực hiện:
+**Sinh viên thực hiện:**
 |Trần Trọng Tấn |
 |---------------|
 |Nguyễn Đức Tuấn|
