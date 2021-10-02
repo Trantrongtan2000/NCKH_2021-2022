@@ -1,4 +1,4 @@
-#**Nghiên cứu ứng dụng IoT hệ thống đo nhịp tim và SpO2**
+#Nghiên cứu ứng dụng IoT hệ thống đo nhịp tim và SpO2
 
 Đề tài:
 
